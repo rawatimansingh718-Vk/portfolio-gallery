@@ -40,6 +40,16 @@ const projects = [
     demoLink:
       "https://rawatimansingh718-vk.github.io/webpro-book-search/",
   },
+  {
+    id: 4,
+    title: "Personal Portfolio – Week 10_1",
+    description:
+      "A personal portfolio website showcasing my profile, skills, and web development journey.",
+    techStack: ["HTML", "CSS"],
+    category: "Frontend",
+    githubLink: "https://github.com/rawatimansingh718-Vk/portfolio",
+    demoLink: "https://rawatimansingh718-vk.github.io/portfolio/",
+  },
 ];
 
 function App() {
