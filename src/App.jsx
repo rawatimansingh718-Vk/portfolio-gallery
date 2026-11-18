@@ -11,8 +11,10 @@ const projects = [
       "A React application featuring student profiles, reusable components, props, and interactive sections.",
     techStack: ["React", "CSS"],
     category: "Frontend",
-    githubLink: "https://github.com/rawatimansingh718-Vk/task11",
-    demoLink: "https://rawatimansingh718-vk.github.io/task11/",
+    githubLink:
+      "https://github.com/rawatimansingh718-Vk/task11",
+    demoLink:
+      "https://rawatimansingh718-vk.github.io/task11/",
   },
   {
     id: 2,
@@ -21,8 +23,10 @@ const projects = [
       "My personal website showcasing web programming assignments and my development journey.",
     techStack: ["HTML", "CSS"],
     category: "Frontend",
-    githubLink: "https://github.com/rawatimansingh718-Vk/Iman",
-    demoLink: "https://rawatimansingh718-vk.github.io/Iman/",
+    githubLink:
+      "https://github.com/rawatimansingh718-Vk/Iman",
+    demoLink:
+      "https://rawatimansingh718-vk.github.io/Iman/",
   },
   {
     id: 3,
@@ -31,8 +35,10 @@ const projects = [
       "A book discovery application that searches for books and displays book information using the Open Library API.",
     techStack: ["JavaScript", "CSS"],
     category: "Frontend",
-    githubLink: "https://github.com/rawatimansingh718-Vk/webpro-book-search",
-    demoLink: "https://github.com/rawatimansingh718-Vk/webpro-book-search",
+    githubLink:
+      "https://github.com/rawatimansingh718-Vk/webpro-book-search",
+    demoLink:
+      "https://rawatimansingh718-vk.github.io/webpro-book-search/",
   },
 ];
 
@@ -49,7 +55,9 @@ function App() {
   return (
     <main className="app-container">
       <header className="hero">
-        <span className="hero-label">✦ MY CREATIVE SPACE</span>
+        <span className="hero-label">
+          ✦ MY CREATIVE SPACE
+        </span>
 
         <h1>
           My Developer
@@ -83,7 +91,9 @@ function App() {
           <div>
             <span className="section-label">MY WORK</span>
             <h2>Featured Projects</h2>
-            <p>A selection of my learning journey and creations.</p>
+            <p>
+              A selection of my learning journey and creations.
+            </p>
           </div>
 
           <span className="project-count">
